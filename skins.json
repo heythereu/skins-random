@@ -13,6 +13,6 @@
   "MineTrumps": {
     "skin": "https://raw.githubusercontent.com/heythereu/skins-random/main/test.png",
     "trail": "flame",
-    "skinny": true
+    "skinny": false
   }
 }
